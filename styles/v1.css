@@ -88,7 +88,7 @@ h4{
 
 #profile{
   width:250px;
-  height:350px;
+  height:400px;
   flex-direction: row;
   flex-grow: 1;
   margin-top:35px;
@@ -105,17 +105,18 @@ h4{
 }
 .hsPar{
   margin: 15px;
+
 }
 #hs{
-  width:300px;
-  height:300px;
+  width:100%;
+  height:350px;
   border-radius: 50%;
   padding: 0 10px 10px 0px;
   margin: 15px;
 }
 #college{
   width:320px;
-  height:340px;
+  height:420px;
   padding: 0 10px 10px 0;
   margin: 15px;
   border-radius: 25px;
@@ -269,6 +270,5 @@ p span
 	margin:0 auto;
 	margin-top: 40px;
 	margin-bottom: 20px;
-
 	text-align: center;
 }
